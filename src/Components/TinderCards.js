@@ -14,6 +14,7 @@ function TinderCards() {
         //     name:'Tom Cruise',
         //     url:'https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE5NDg0MDU0OTM2NTg1NzQz/tom-cruise-9262645-1-402.jpg'
         // }
+        //
     ])
 
     //Explore more on this useEffect
