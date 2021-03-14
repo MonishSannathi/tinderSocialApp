@@ -1,0 +1,11 @@
+.header{    
+    display: flex;/* Explore more on flex*/
+    align-items: center; /*Aligns the items at the center*/
+    justify-content: space-between;/*includes space between the icons*/
+    z-index: 100;/*TO Make Header Component stay always at the top*/
+
+}
+
+.header_Icon{
+    padding: 20px;/*Know more about the rules of Padding*/
+}
